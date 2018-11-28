@@ -1,0 +1,7 @@
+{
+  "backend": "spacy_sklearn",
+  "path" : "./",
+  "data" : "H:/Data/demo-rasa.json",
+  "num_threads":100,
+  "pipeline":"spacy_sklearn"
+}

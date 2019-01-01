@@ -22,3 +22,8 @@ Required Version:
 spacy==2.0.11
 scikit-learn==0.19.1
 
+
+To check server:
+    http://localhost:5000/parse?q=hello
+    http://localhost:5000/status
+

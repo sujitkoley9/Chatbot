@@ -1,0 +1,10 @@
+ python -m rasa_nlu.train --config  config_spacy.yml --data demo-rasa.json --path C:/Users/Admin/Downloads/Chatbot-master/Model
+ 
+ 
+ 
+ 
+ What do these parameters mean?
+
+			config: configuration of the machine learning model
+			data: file / folder that contains the training data
+			path: output path where the model is persisted to

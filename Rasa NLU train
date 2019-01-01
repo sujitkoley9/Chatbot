@@ -14,3 +14,11 @@
 
 ----To run the model			
 		python -m rasa_nlu.server --path C:/Users/Admin/Downloads/Chatbot-master/Model
+		
+		
+		
+Required Version:
+
+spacy==2.0.11
+scikit-learn==0.19.1
+
